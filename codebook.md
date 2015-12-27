@@ -3,13 +3,13 @@
 ##Identifiers:
 
 * "activity"
-1. Standing
-2. Sitting
-3. Laying
-4. Walking
-5. Walking Downstairs
-6. Walking Upstairs
-* "subjects" -- numerical identity
+  1. Standing
+  2. Sitting
+  3. Laying
+  4. Walking
+  5. Walking Downstairs
+  6. Walking Upstairs
+* "subjects" -- numerically identified; 1:30
 
 ##Variables culled from greater data set:
 "tBodyAcc.mean...X"
